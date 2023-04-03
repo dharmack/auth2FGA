@@ -1,0 +1,15 @@
+C:\Users\Dharma\source\repos\Auth2\Auth2\obj\Debug\net6.0\Auth2.csproj.AssemblyReference.cache
+C:\Users\Dharma\source\repos\Auth2\Auth2\obj\Debug\net6.0\Auth2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dharma\source\repos\Auth2\Auth2\obj\Debug\net6.0\Auth2.AssemblyInfoInputs.cache
+C:\Users\Dharma\source\repos\Auth2\Auth2\obj\Debug\net6.0\Auth2.AssemblyInfo.cs
+C:\Users\Dharma\source\repos\Auth2\Auth2\obj\Debug\net6.0\Auth2.csproj.CoreCompileInputs.cache
+C:\Users\Dharma\source\repos\Auth2\Auth2\bin\Debug\net6.0\Auth2.exe
+C:\Users\Dharma\source\repos\Auth2\Auth2\bin\Debug\net6.0\Auth2.deps.json
+C:\Users\Dharma\source\repos\Auth2\Auth2\bin\Debug\net6.0\Auth2.runtimeconfig.json
+C:\Users\Dharma\source\repos\Auth2\Auth2\bin\Debug\net6.0\Auth2.dll
+C:\Users\Dharma\source\repos\Auth2\Auth2\bin\Debug\net6.0\Auth2.pdb
+C:\Users\Dharma\source\repos\Auth2\Auth2\obj\Debug\net6.0\Auth2.dll
+C:\Users\Dharma\source\repos\Auth2\Auth2\obj\Debug\net6.0\refint\Auth2.dll
+C:\Users\Dharma\source\repos\Auth2\Auth2\obj\Debug\net6.0\Auth2.pdb
+C:\Users\Dharma\source\repos\Auth2\Auth2\obj\Debug\net6.0\Auth2.genruntimeconfig.cache
+C:\Users\Dharma\source\repos\Auth2\Auth2\obj\Debug\net6.0\ref\Auth2.dll
